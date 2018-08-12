@@ -1,0 +1,27 @@
+lambda = 0; n_batch = 100; eta = .1; n_epochs = 40;
+
+Cost train: 7.335897
+Accuracy train: 0.265200
+Cost test: 8.052287
+Accuracy test: 0.242300
+
+lambda = 0; n_batch = 100; eta = .01; n_epochs = 40;
+
+Cost train: 1.679334
+Accuracy train: 0.416800
+Cost test: 1.799764
+Accuracy test: 0.368900
+
+lambda = .1; n_batch = 100; eta = .01; n_epochs = 40;
+
+Cost train: 1.981636
+Accuracy train: 0.341600
+Cost test: 2.014092
+Accuracy test: 0.334200
+
+lambda = 1; n_batch = 100; eta = .01; n_epochs = 40;
+
+Cost train: 2.195444
+Accuracy train: 0.223000
+Cost test: 2.205137
+Accuracy test: 0.218600
